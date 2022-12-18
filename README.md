@@ -4,5 +4,5 @@ Anggota Kelompok :
 2. Tambat Ramdani (1717051034)
 3. Sinta Nurhalifah (2117051015)
 
-#NOTE
+# NOTE
 Import File uappbo.sql ke database phpmyadmin
