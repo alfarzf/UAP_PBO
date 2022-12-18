@@ -5,4 +5,4 @@ Anggota Kelompok :
 3. Sinta Nurhalifah (2117051015)
 
 # NOTE
-Import File uappbo.sql ke database phpmyadmin
+Import file uappbo.sql ke database phpmyadmin
